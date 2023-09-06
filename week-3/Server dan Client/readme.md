@@ -1,6 +1,8 @@
 # Server dan Client
 
-## Source code pada file server.c
+## Source code
+
+### Source code pada file server.c
 
 ```c
 #include <stdio.h>
@@ -135,7 +137,7 @@ int main( int argc, char *argv[] ) {
 
 ```
 
-## Source code pada file client.c
+### Source code pada file client.c
 
 ```c
 #include <stdio.h>
@@ -209,3 +211,19 @@ int main(int argc, char *argv[]) {
 }
 
 ```
+
+## Compile menggunakan terminal
+
+### Terminal Server
+
+<img src="../assets/week-3/WhatsApp Image 2023-09-05 at 15.56.50.jpg" alt="Tampilan terminal pada server">
+
+### Terminal Client
+
+**Client 1**
+
+<img src="../assets/week-3/WhatsApp Image 2023-09-05 at 15.56.59.jpg" alt="Tampilan terminal pada client 1">
+
+**Client 2**
+
+<img src="../assets/week-3/WhatsApp Image 2023-09-05 at 15.56.56.jpg" alt="Tampilan terminal pada client 2">
