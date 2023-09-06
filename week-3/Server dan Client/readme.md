@@ -216,14 +216,14 @@ int main(int argc, char *argv[]) {
 
 ### Terminal Server
 
-<img src="../assets/week-3/WhatsApp Image 2023-09-05 at 15.56.50.jpg" alt="Tampilan terminal pada server">
+<img src="../../assets/week-3/WhatsApp Image 2023-09-05 at 15.56.50.jpg" alt="Tampilan terminal pada server">
 
 ### Terminal Client
 
-**Client 1**
+- **Client 1**
 
-<img src="../assets/week-3/WhatsApp Image 2023-09-05 at 15.56.59.jpg" alt="Tampilan terminal pada client 1">
+<img src="../../assets/week-3/WhatsApp Image 2023-09-05 at 15.56.59.jpg" alt="Tampilan terminal pada client 1">
 
-**Client 2**
+- **Client 2**
 
-<img src="../assets/week-3/WhatsApp Image 2023-09-05 at 15.56.56.jpg" alt="Tampilan terminal pada client 2">
+<img src="../../assets/week-3/WhatsApp Image 2023-09-05 at 15.56.56.jpg" alt="Tampilan terminal pada client 2">
