@@ -1,6 +1,8 @@
 # Server dan Client
 
-## Source code
+### Source code
+
+Pastikan port dari source code pada file server.c dengan file client.c sama. Contohnya seperti gambar di bawah.
 
 ### Source code pada file server.c
 
@@ -212,13 +214,43 @@ int main(int argc, char *argv[]) {
 
 ```
 
-## Compile menggunakan terminal
+### Compile menggunakan terminal
+
+Sebelum compile source code pada terminal, pastikan telah memasuki folder yang terdapat file server.c dan client.c. Usahakan 2 file tersebut berada pada folder yang sama. Pastikan juga server melakukan compile perintah terlebih dahulu, setelah itu baru client yang compile perintah. Untuk perintahnya sendiri contohnya ada dibawah.
 
 ### Terminal Server
+
+Compile pada terminal server dengan perintah :
+
+```c
+gcc server.c
+```
+
+kemudian
+
+```c
+./a.out
+```
+
+Setelah itu kita dapat menerima dan mengirim pesan dari client.
 
 <img src="../../assets/week-3/WhatsApp Image 2023-09-05 at 15.56.50.jpg" alt="Tampilan terminal pada server">
 
 ### Terminal Client
+
+Compile pada terminal server dengan perintah :
+
+```c
+gcc client.c
+```
+
+kemudian
+
+```c
+./a.out
+```
+
+Setelah itu kita dapat mengirim dan menerima pesan dari server.
 
 - **Client 1**
 
