@@ -30,7 +30,7 @@
 ## Perbandingan
 <br>
 <p align="center">
-<img src="../assets/week-3/tcp-comparison-in-http.png" alt="Perbandingan Tiap Versi HTTP">
+<img src="../../assets/week-3/tcp-comparison-in-http.png" alt="Perbandingan Tiap Versi HTTP">
 <br>
 <i>Perbandingan Tiap Versi HTTP</i>
 </p>
@@ -39,7 +39,7 @@
 ## TCP Flow pada HTTP 0.9, 1.0, dan 1.1
 <br>
 <p align="center">
-<img src="../assets/week-3/tcp-flow-1.png" alt="TCP Flow pada HTTP 0.9, 1.0, dan 1.1">
+<img src="../../assets/week-3/tcp-flow-1.png" alt="TCP Flow pada HTTP 0.9, 1.0, dan 1.1">
 <br>
 <i>TCP Flow pada HTTP 0.9, 1.0, dan 1.1</i>
 </p>
@@ -161,7 +161,7 @@ Sebuah message sesuai dengan request dan respons HTTP yang logis. Setiap message
 HTTP/1.1 mengatasi keterbatasan HTTP/1.0 dengan memperkenalkan koneksi persisten. Tetapi request masih diurutkan dalam koneksi yang sama yang menyebabkan Head-of-Line blocking.
 <br>
 <p align="center">
-<img src="../assets/week-3/http_2_multiplexing.png" alt="HTTP 2 Multiplexing">
+<img src="../../assets/week-3/http_2_multiplexing.png" alt="HTTP 2 Multiplexing">
 <br>
 <i>HTTP 2 Multiplexing</i>
 </p>
@@ -182,7 +182,7 @@ HTTP/2 mengatasi masalah ini dengan menggunakan algoritma kompresi header, HPACK
 HPACK menggunakan dictionary data structure baik di sisi klien maupun server untuk menghindari pengiriman header yang redundan dan mengompresi header yang dikirimkan melalui wire. Setiap entri dalam kamus memiliki indeks, header key, dan header value. Setiap dictionary mencakup dua komponen:
 <br>
 <p align="center">
-<img src="../assets/week-3/hpack.png" alt="HPACK">
+<img src="../../assets/week-3/hpack.png" alt="HPACK">
 <br>
 <i>HPACK</i>
 </p>
