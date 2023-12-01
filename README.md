@@ -1,7 +1,7 @@
 # PROJECT TUGAS KONSEP JARINGAN
 
-**NRP**      : 3122600019
+**NRP**&nbsp;&nbsp;&nbsp;&nbsp;: 3122600019
 
-**Nama**     : Abdul Khalim Efendi
+**Nama** : Abdul Khalim Efendi
 
-**Kelas**    : D4 IT A
+**Kelas** &nbsp;: D4 IT A
